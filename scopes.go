@@ -8,6 +8,7 @@ const (
 	ScopeEmail                      = "email"
 	ScopeGuilds                     = "guilds"
 	ScopeGuildsJoin                 = "guilds.join"
+	ScopeGuildsRead 		= "guilds.members.read"
 	ScopeConnections                = "connections"
 	ScopeGroupDMJoin                = "gdm.join"
 	ScopeMessagesRead               = "messages.read"
